@@ -14,3 +14,5 @@ Factorization)
 9. Stream Algorithm
 10. Clustream Algorithm
 11. ID3 and CART (batch data)
+
+#### Note: Data folder consists of datasets used in these algorithms.
